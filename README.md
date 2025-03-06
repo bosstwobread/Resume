@@ -1,4 +1,6 @@
-[Chinese Version](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.md)
+::: {.text-right}
+Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.md)
+:::
 # Personal Information
 
 - Lin Xisheng / Male / 1986
@@ -126,7 +128,8 @@
 - System Monitoring: Records all operations and API calls, generating user-friendly data and visual charts.
 - Low-code platform: The design is basically completed, but it is stopped due to company strategy.
 ![workflow](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm1.png "workflow")
-
+![architecture diagram](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm2.png "architecture diagram")
+![workflow diagram](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm3.png "workflow diagram")
 
 ## Panoramic Image Display (PHP/Javascript) 2016.4-2016.5
 - Synthesize the pictures taken by drone and display the panorama.
