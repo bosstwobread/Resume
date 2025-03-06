@@ -29,7 +29,7 @@
 # 工作经历
 
 ## 2022.04-2025.2（3年） 浙江网新恒天软件有限公司（.NET/MSSQL/PostgreSQL/Windows command/AWS）
-
+[主页](https://en.hengtiansoft.com/homepage)
 ### 工作内容
  - Tech leader, 负责团队内任务分解，技术难点攻克
  - 参加每日例会，汇报日常工作，并以专业的方式与外国客户进行有效沟通
@@ -41,7 +41,7 @@
  - 制定团队开发的技术规范和大量技术指导手册，使得新成员可快速上手
 
 ## 2013.04-2021.5（8年） 浙江浙大万维科技有限公司（.NET/JAVA/NODE/PHP/Docker）
-
+[主页](https://www.zjugis.com/home/index.html)
 ### 工作内容
  - 负责电子政务平台部门团队管理、制定公司技术规范及平台相关产品的流程图、数据库、架构 设计和编码工作
  - 基于平台的项目管理，大约有几十个基于此平台，负责其中一部分技术难度较大的项目
@@ -54,7 +54,7 @@
  - 地图切片后台下载器
 
 ## 2005.09-2009.04 浙江林学院 信息与技术实验室(C++)
-
+[主页](https://www.zafu.edu.cn/)
 ### 工作内容
  - 信息学院的软件研发工作
  - 协助老师进行C++软件课程讲授
@@ -71,12 +71,13 @@
 ## 道富SSRS报表系统 2023.5-2025.2
  - 帮助道富银行注册业务部建立并维护复杂的报告系统，用于日常基金运作和数据核对
  - 运用了大量存储过程特性来实现复杂业务要求，如递归算法等
+![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
 
 ## 恒天.net core架构 2022.2-2022.8
  - 公司级别架构，为公司项目提供基础框架
  - 基于Dapr的微服务架构，针对公司业务场景做了封装，优化了开发流程
 
-## 后台逻辑配置框架 2021.9 - 2021.12
+## 后台逻辑配置框架(Node.js/Vue) 2021.9 - 2021.12
 [git地址](https://github.com/bosstwobread/YFormIntelligence)
 ### 框架概述
  - 提供了一种强大而灵活的方式来构建复杂的业务应用程序，通过配置而不是编码来专注于业务逻辑
@@ -114,6 +115,7 @@
  - 第三方应用集成：如钉钉、企业微信、短信、邮件或自定义第三方集成
  - 系统监控：所有操作、API调用全记录，且形成面向用户可读数据/图表
  - 低代码系统配置：属于设计基本完成，因公司战略等原因中途停止
+![workflow](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm1.png "workflow")
 
 ## 图片全景展示(PHP/Javascript) 2016.4-2016.5
  - 实现对无人机拍摄后的图片进行合成
@@ -137,6 +139,7 @@
  - chrome收藏夹插件：支持在任一网页使用快捷键呼出收藏夹 选择网页进行打开；
 [项目资源下载](https://download.csdn.net/download/bosstwobread/7171427)
 [帖子地址](https://bbs.csdn.net/topics/390755412?spm=1001.2014.3001.6377)
+![chrome_plugin](https://github.com/bosstwobread/Resume/blob/main/Resource/chrome_plugin1.jpg "chrome_plugin")
  - 级联文件夹图片压缩工具(C#)：支持设置压缩率及压缩的存储位置，当年为了相机拍照后，能节省电脑空间弄的
 
 # 我精通/熟练使用的技能
