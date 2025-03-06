@@ -105,7 +105,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 
 # E-Government Platform (C#/.NET/JAVA/NODEJS/ORACLE/Docker) 2014.4-2021.5
 [Demo Link](http://114.215.200.79:81/z_web_container/Home/blueIndex)
-- Responsibility: Served as architect, project manager, product manager and core functional coding work at the same time
+- Responsibility: Served as architect, project manager, product manager and core functional coding work at the same time， 7-8 people team
 ### Project Overview
 - Provides a unified development platform for enterprise and government software, supporting language-independent customization development on WEB, APP, and hardware.
 - Features include user organization permissions, a self-developed BMPS2.0 workflow engine, a reporting system, business-related middleware, large file storage, continuous deployment, customizable forms with flexible configuration, ensuring critical pages response times within 200ms.
