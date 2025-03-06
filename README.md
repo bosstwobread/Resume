@@ -85,7 +85,7 @@
 - Based on Dapr's microservice architecture, it is encapsulated for the company's business scenarios and optimizes the development process
 
 ## Backend Logic Configuration Framework (Node.js/Vue) 2021.9 - 2021.12
-[git address](https://github.com/bosstwobread/YFormIntelligence)
+[git](https://github.com/bosstwobread/YFormIntelligence)
 ### Framework Overview
 - Provides a powerful and flexible way to build complex business applications, focusing on business logic through configuration rather than coding
 - By studying the functions that can be realized by programming languages, the logic abstraction is split into technical instructions with the smallest granularity, and a low-code platform is built from the bottom up
