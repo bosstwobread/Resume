@@ -1,7 +1,7 @@
 Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.md)
 # Personal Information
 
-- Lin Xisheng / Male / 1986
+- Nelson Lin / Male / 1986
 - Bachelor's Degree / Zhejiang Forestry University, College of Information Technology and Information Management
 - Start of Work: 2008
 
