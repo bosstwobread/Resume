@@ -1,4 +1,4 @@
-[English Version](https://github.com/bosstwobread/Resume)
+Language: [English](https://github.com/bosstwobread/Resume)
 # 个人信息
 
  - 林希胜/男/1986 
@@ -118,6 +118,8 @@
  - 系统监控：所有操作、API调用全记录，且形成面向用户可读数据/图表
  - 低代码系统配置：属于设计基本完成，因公司战略等原因中途停止
 ![workflow](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm1.png "workflow")
+![architecture diagram](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm2.png "architecture diagram")
+![workflow diagram](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm3.png "workflow diagram")
 
 ## 图片全景展示(PHP/Javascript) 2016.4-2016.5
  - 实现对无人机拍摄后的图片进行合成
