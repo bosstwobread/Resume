@@ -59,7 +59,7 @@
 - Build a map tile background downloader
 
 ## 2005.09-2009.04 Zhejiang Forestry University, Information and Techonology Laboratory (C++)
-
+[Homepage](https://www.zafu.edu.cn/)
 ### Job Responsibilities
 - Developed software for the College of Information Technology
 - Assisted teachers in teaching C++ software courses
@@ -78,6 +78,7 @@
 ## State street SQL Server Reporting Services 2023.5-2025.2
 - Help established and maintained the complex reporting system for State Street Registry Business Unit for daily fund operations and data reconciliation
 - Manage the codebase for SQL Server reporting service project including SQLs and Reports which are used to implement complex business requirements and calculation logics, such as recursive algorithms
+![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
 
 ## Hengtian.net core architecture 2022.2-2023.4
 - Company-level architecture, providing a fundamental framework for projects of the company
