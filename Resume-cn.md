@@ -90,6 +90,8 @@
 ### 未来展望
  - 提供可视化配置
  - 将可接入的业务插件扩展到非Node语言，即服务模式，以支持跨语言
+![code_insert](https://github.com/bosstwobread/Resume/blob/main/Resource/fyi1.png "code_insert")
+![code_search](https://github.com/bosstwobread/Resume/blob/main/Resource/fyi1.pn2 "code_search")
 
 ## 万维电子政务平台(C#/.NET/JAVA/NODEJS/ORACLE/Docker) 2014.4-2021.5 
 [演示地址](http://114.215.200.79:81/z_web_container/Home/blueIndex)
