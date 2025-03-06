@@ -76,18 +76,19 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 # Main Projects
 
 ## State street SQL Server Reporting Services 2023.5-2025.2
-- responsibility: team leader
+- Responsibility: team leader
 - Help established and maintained the complex reporting system for State Street Registry Business Unit for daily fund operations and data reconciliation
 - Manage the codebase for SQL Server reporting service project including SQLs and Reports which are used to implement complex business requirements and calculation logics, such as recursive algorithms
 ![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
 
 ## Hengtian.net core architecture 2022.2-2023.4
+- Responsibility: Served as Scrum master
 - Company-level architecture, providing a fundamental framework for projects of the company
 - Based on Dapr's microservice architecture, it is encapsulated for the company's business scenarios and optimizes the development process
 
 ## Backend Logic Configuration Framework (Node.js/Vue) 2021.9 - 2021.12
 [git](https://github.com/bosstwobread/YFormIntelligence)
-- responsibility: Completely independent development
+- Responsibility: Completely independent development
 ### Framework Overview
 - Provides a powerful and flexible way to build complex business applications, focusing on business logic through configuration rather than coding
 - By studying the functions that can be realized by programming languages, the logic abstraction is split into technical instructions with the smallest granularity, and a low-code platform is built from the bottom up
@@ -104,7 +105,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 
 # E-Government Platform (C#/.NET/JAVA/NODEJS/ORACLE/Docker) 2014.4-2021.5
 [Demo Link](http://114.215.200.79:81/z_web_container/Home/blueIndex)
-- responsibility: Served as architect, project manager, product manager and core functional coding work at the same time
+- Responsibility: Served as architect, project manager, product manager and core functional coding work at the same time
 ### Project Overview
 - Provides a unified development platform for enterprise and government software, supporting language-independent customization development on WEB, APP, and hardware.
 - Features include user organization permissions, a self-developed BMPS2.0 workflow engine, a reporting system, business-related middleware, large file storage, continuous deployment, customizable forms with flexible configuration, ensuring critical pages response times within 200ms.
