@@ -69,16 +69,19 @@ Language: [English](https://github.com/bosstwobread/Resume)
 # 关键项目经历
 
 ## 道富SSRS报表系统 2023.5-2025.2
+ - 职责：技术经理
  - 帮助道富银行注册业务部建立并维护复杂的报告系统，用于日常基金运作和数据核对
  - 运用了大量存储过程特性来实现复杂业务要求，如递归算法等
 ![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
 
 ## 恒天.net core架构 2022.2-2022.8
+ - 职责：项目协调和进度负责
  - 公司级别架构，为公司项目提供基础框架
  - 基于Dapr的微服务架构，针对公司业务场景做了封装，优化了开发流程
 
 ## 后台逻辑配置框架(Node.js/Vue) 2021.9 - 2021.12
 [git地址](https://github.com/bosstwobread/YFormIntelligence)
+ - 职责：完全自主研发
 ### 框架概述
  - 提供了一种强大而灵活的方式来构建复杂的业务应用程序，通过配置而不是编码来专注于业务逻辑
  - 通过研究编程语言可实现的功能将逻辑抽象拆分到最小颗粒度的技术指令，从底层搭建低代码平台 
@@ -95,6 +98,7 @@ Language: [English](https://github.com/bosstwobread/Resume)
 
 ## 万维电子政务平台(C#/.NET/JAVA/NODEJS/ORACLE/Docker) 2014.4-2021.5 
 [演示地址](http://114.215.200.79:81/z_web_container/Home/blueIndex)
+ - 职责：同时担任架构师，项目经理，产品经理，核心功能开发等角色
 ### 项目概述
  - 为政企软件提供统一的开发平台，二次开发无语言限制，涉及 WEB/APP/硬件 等
  - 包括用户组织权限、自研BMPS2.0流程引擎、报表系统、业务相关中间件、大文件存储、可持续化部署、自定义表单等功能，配置灵活且对关键页面响应标准控制在200ms内
@@ -122,12 +126,15 @@ Language: [English](https://github.com/bosstwobread/Resume)
 ![workflow diagram](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm3.png "workflow diagram")
 
 ## 图片全景展示(PHP/Javascript) 2016.4-2016.5
+ - 职责：程序员
  - 实现对无人机拍摄后的图片进行合成
 
 ## 数据转档(C#/ORACLE) 2013.4-2014.4
+ - 职责：程序员
  - 实现数据迁移可配置化，针对不同数据库特性（Oracle/MSSQL/MySQL）将业务迁移关系抽象化成可配置的参数，支持单表上亿数据转移同时数分钟即可转移完毕
 
 ## 东方通信webgis网页版地图引擎(Javascript) 2009.4-2013.4
+ - 职责：程序员
 ### 项目概述
  - 完全自研的webgis网页版地图引擎，包含地图投影算法、地图缩放、拖动、测距、图层、图元等处理，以及开放的相关前端接口
 
