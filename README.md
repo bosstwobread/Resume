@@ -1,4 +1,4 @@
-[Chinese Version](https://github.com/bosstwobread/cn-Resume)
+[Chinese Version](https://github.com/bosstwobread/Resume-en)
 # Personal Information
 
 - Lin Xisheng / Male / 1986
