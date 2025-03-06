@@ -76,13 +76,13 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 # Main Projects
 
 ## State street SQL Server Reporting Services 2023.5-2025.2
-- Responsibility: team leader
+- Responsibility: Tech leader
 - Help established and maintained the complex reporting system for State Street Registry Business Unit for daily fund operations and data reconciliation
 - Manage the codebase for SQL Server reporting service project including SQLs and Reports which are used to implement complex business requirements and calculation logics, such as recursive algorithms
 ![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
 
 ## Hengtian.net core architecture 2022.2-2023.4
-- Responsibility: Served as Scrum master
+- Responsibility: Scrum master
 - Company-level architecture, providing a fundamental framework for projects of the company
 - Based on Dapr's microservice architecture, it is encapsulated for the company's business scenarios and optimizes the development process
 
@@ -133,15 +133,15 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 ![workflow diagram](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm3.png "workflow diagram")
 
 ## Panoramic Image Display (PHP/Javascript) 2016.4-2016.5
-- responsibility: developer
+- Responsibility: Developer
 - Synthesize the pictures taken by drone and display the panorama.
 
 ## Data Migration (C#/ORACLE) 2013.4-2014.4
-- responsibility: developer
+- Responsibility: Developer
 - Achieved configurable data migration, abstracting business migration relationships into configurable parameters based on different database characteristics (Oracle/MSSQL/MySQL), transfer of over a hundred million data records within a few minutes
 
 ## Eastcom WebGIS Web Map Engine (Javascript) 2009.4-2013.4
-- responsibility: developer
+- Responsibility: Developer
 ### Project Overview
 - A fully self-developed WebGIS web map engine.
 - Core functionalities include map projection algorithms, zooming, dragging (buffering), distance measurement, layers, and graphical elements (points, lines, polygons), with open interfaces.
