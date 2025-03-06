@@ -76,6 +76,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 # Main Projects
 
 ## State street SQL Server Reporting Services 2023.5-2025.2
+- responsibility: team leader
 - Help established and maintained the complex reporting system for State Street Registry Business Unit for daily fund operations and data reconciliation
 - Manage the codebase for SQL Server reporting service project including SQLs and Reports which are used to implement complex business requirements and calculation logics, such as recursive algorithms
 ![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
@@ -86,6 +87,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 
 ## Backend Logic Configuration Framework (Node.js/Vue) 2021.9 - 2021.12
 [git](https://github.com/bosstwobread/YFormIntelligence)
+- responsibility: Completely independent development
 ### Framework Overview
 - Provides a powerful and flexible way to build complex business applications, focusing on business logic through configuration rather than coding
 - By studying the functions that can be realized by programming languages, the logic abstraction is split into technical instructions with the smallest granularity, and a low-code platform is built from the bottom up
@@ -102,7 +104,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 
 # E-Government Platform (C#/.NET/JAVA/NODEJS/ORACLE/Docker) 2014.4-2021.5
 [Demo Link](http://114.215.200.79:81/z_web_container/Home/blueIndex)
-
+- responsibility: Served as architect, project manager, product manager and core functional coding work at the same time
 ### Project Overview
 - Provides a unified development platform for enterprise and government software, supporting language-independent customization development on WEB, APP, and hardware.
 - Features include user organization permissions, a self-developed BMPS2.0 workflow engine, a reporting system, business-related middleware, large file storage, continuous deployment, customizable forms with flexible configuration, ensuring critical pages response times within 200ms.
@@ -130,12 +132,15 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 ![workflow diagram](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm3.png "workflow diagram")
 
 ## Panoramic Image Display (PHP/Javascript) 2016.4-2016.5
+- responsibility: developer
 - Synthesize the pictures taken by drone and display the panorama.
 
 ## Data Migration (C#/ORACLE) 2013.4-2014.4
+- responsibility: developer
 - Achieved configurable data migration, abstracting business migration relationships into configurable parameters based on different database characteristics (Oracle/MSSQL/MySQL), transfer of over a hundred million data records within a few minutes
 
 ## Eastcom WebGIS Web Map Engine (Javascript) 2009.4-2013.4
+- responsibility: developer
 ### Project Overview
 - A fully self-developed WebGIS web map engine.
 - Core functionalities include map projection algorithms, zooming, dragging (buffering), distance measurement, layers, and graphical elements (points, lines, polygons), with open interfaces.
