@@ -6,7 +6,6 @@
 - Start of Work: 2008
 
 - Desired Position: Software Engineer / Project Manager
-- Expected Salary: 50k+
 - Desired Cities: Remote
 
 - Phone: 13777365321
