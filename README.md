@@ -97,6 +97,8 @@
 ### Future Outlook
 - Provide visual configuration
 - Extend the accessible business plug-ins to non-Node languages, i.e. service mode, to support cross-language
+![code_insert](https://github.com/bosstwobread/Resume/blob/main/Resource/fyi1.png "code_insert")
+![code_search](https://github.com/bosstwobread/Resume/blob/main/Resource/fyi1.pn2 "code_search")
 
 # E-Government Platform (C#/.NET/JAVA/NODEJS/ORACLE/Docker) 2014.4-2021.5
 [Demo Link](http://114.215.200.79:81/z_web_container/Home/blueIndex)
