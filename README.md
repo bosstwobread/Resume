@@ -84,7 +84,7 @@
 - Company-level architecture, providing a fundamental framework for projects of the company
 - Based on Dapr's microservice architecture, it is encapsulated for the company's business scenarios and optimizes the development process
 
-## Backend Logic Configuration Framework 2021.9 - 2021.12
+## Backend Logic Configuration Framework (Node.js/Vue) 2021.9 - 2021.12
 [git address](https://github.com/bosstwobread/YFormIntelligence)
 ### Framework Overview
 - Provides a powerful and flexible way to build complex business applications, focusing on business logic through configuration rather than coding
@@ -123,6 +123,8 @@
 - Third-Party Application Integration: Supports integrations with DingTalk, WeCom, SMS, Email, or customized third-party services.
 - System Monitoring: Records all operations and API calls, generating user-friendly data and visual charts.
 - Low-code platform: The design is basically completed, but it is stopped due to company strategy.
+![workflow](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm1.png "workflow")
+
 
 ## Panoramic Image Display (PHP/Javascript) 2016.4-2016.5
 - Synthesize the pictures taken by drone and display the panorama.
@@ -143,9 +145,9 @@
 - Write a tile download tool to grab tiles of third-party maps
 
 # Additional Amateur Projects
-- Backend Logic Configurable Framework (Node.js): Aims to abstract business logic into the smallest granular technical instructions, building a low-code platform from the bottom up rather than a purely business-driven system. This approach supports all business scenarios while integrating with development tools like Visual Studio Code instead of relying solely on online development platforms, making it developer-friendly with no technical restrictions. Currently, the framework supports basic CRUD and other simple logic processing. [GitHub Repository](https://github.com/bosstwobread/YFormIntelligence)
 - WeChat Sudoku Mini application (Search '艺妍数独' on WeChat Mini application): A side project promised to my daughter during winter break; I personally think its design is superior to most similar games on the market.
 - Chrome Bookmark Plugin: Allows users to quickly open their bookmark menu with a keyboard shortcut from any webpage. [Download](https://download.csdn.net/download/bosstwobread/7171427) | [Forum Post](https://bbs.csdn.net/topics/390755412?spm=1001.2014.3001.6377)
+![chrome_plugin](https://github.com/bosstwobread/Resume/blob/main/Resource/chrome_plugin1.jpg "chrome_plugin")
 - Cascading Folder Image Compression Tool (C#): Enables configurable compression rates and storage locations for bulk image compression. Used to save computer space
 
 # Skills & Expertise
