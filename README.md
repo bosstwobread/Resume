@@ -9,7 +9,6 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 - Desired Cities: Remote
 
 - Lindedin: [Homepage](https://www.linkedin.com/in/nelson-lin-05671834b/)
-- Email: linxishengjiong@gmail.com
 - Ability to do night shift and willing to work remotely
 
 ---
