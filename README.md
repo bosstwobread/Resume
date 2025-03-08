@@ -8,11 +8,8 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 - Desired Position: Software Engineer / Project Manager
 - Desired Cities: Remote
 
-- Phone: 13777365321
 - Lindedin: [Homepage](https://www.linkedin.com/in/nelson-lin-05671834b/)
 - Email: linxishengjiong@gmail.com
-- GitHub: https://github.com/bosstwobread
-- WeChat: bosstwobread
 - Ability to do night shift and willing to work remotely
 
 ---
