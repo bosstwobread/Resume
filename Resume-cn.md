@@ -8,9 +8,7 @@ Language: [English](https://github.com/bosstwobread/Resume)
  - 期望职位：软件工程师/项目经理
  - 期望城市：上海/杭州/远程
 
- - 手机：13777365321
  - Email：boss520@dingtalk.com linxishengjiong@gmail.com
- - github: https://github.com/bosstwobread
  - 微信：bosstwobread
 
 ---
