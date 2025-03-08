@@ -71,13 +71,13 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 
 # Main Projects
 
-## State street SQL Server Reporting Services 2023.5-2025.2
+## State street SQL Server Reporting Services (MSSQL/SSRS/CLI) 2023.5-2025.2
 - Responsibility: Tech leader
 - Help established and maintained the complex reporting system for State Street Registry Business Unit for daily fund operations and data reconciliation
 - Manage the codebase for SQL Server reporting service project including SQLs and Reports which are used to implement complex business requirements and calculation logics, such as recursive algorithms
 ![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
 
-## Hengtian.net core architecture 2022.2-2023.4
+## Hengtian.net core architecture (.net core/Dapr/docker) 2022.2-2023.4
 - Responsibility: Scrum master
 - Company-level architecture, providing a fundamental framework for projects of the company
 - Based on Dapr's microservice architecture, it is encapsulated for the company's business scenarios and optimizes the development process
