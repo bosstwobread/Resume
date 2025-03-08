@@ -63,13 +63,13 @@ Language: [English](https://github.com/bosstwobread/Resume)
 
 # 关键项目经历
 
-## 道富SSRS报表系统 2023.5-2025.2
+## 道富SSRS报表系统(MSSQL/SSRS/CLI) 2023.5-2025.2
  - 职责：技术经理
  - 帮助道富银行注册业务部建立并维护复杂的报告系统，用于日常基金运作和数据核对
  - 运用了大量存储过程特性来实现复杂业务要求，如递归算法等
 ![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
 
-## 恒天.net core架构 2022.2-2022.8
+## 恒天.net core架构(.net core/Dapr/docker) 2022.2-2022.8
  - 职责：项目协调和进度负责
  - 公司级别架构，为公司项目提供基础框架
  - 基于Dapr的微服务架构，针对公司业务场景做了封装，优化了开发流程
