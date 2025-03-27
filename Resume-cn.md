@@ -18,7 +18,8 @@ Language: [English](https://github.com/bosstwobread/Resume)
  - 精通/熟悉大部分主流语言，擅长系统架构、组件、数据库、接口等/产品设计与前后端开发、系统部署等技术
  - 获公司个人/团队技术创新奖
  - 在校期间理科成绩优异曾获全省物理竞赛三等奖
-
+ - 有过近十年服务于一个平台升级的经验，深刻理解如何设计才能满足不断发展的市场需求
+   
 ---
 
 # 工作经历
@@ -98,7 +99,7 @@ Language: [English](https://github.com/bosstwobread/Resume)
  - 为政企软件提供统一的开发平台，二次开发无语言限制，涉及 WEB/APP/硬件 等
  - 包括用户组织权限、自研BMPS2.0流程引擎、报表系统、业务相关中间件、大文件存储、可持续化部署、自定义表单等功能，配置灵活且对关键页面响应标准控制在200ms内
  - 平台经历过三个版本的迭代，从原先的C/S架构 到 B/S架构，从.NET版本到JAVA版本
- - 以该平台开发的项目从千万级到几十万级不等约有上百余个，如无锡四全平台、台州一张图、宁波土地整治、山东莒县一张图、徐州政务OA等等
+ - 以该平台开发的项目从千万级到几十万级不等约有上百余个，如无锡四全平台、台州一张图、宁波土地整治、山东莒县一张图、徐州政务OA、万维公司OA等等
 
 ### 平台亮点
  - UI：支持多项目页面融合技术，和react框架采用的组件化理念类似，但是逻辑上共享更方便，不同项目可以直接使用消费，不需要发布组件，顺便说一下，我实现这个功能的时候还不知道react
@@ -147,7 +148,10 @@ Language: [English](https://github.com/bosstwobread/Resume)
 [帖子地址](https://bbs.csdn.net/topics/390755412?spm=1001.2014.3001.6377)
 ![chrome_plugin](https://github.com/bosstwobread/Resume/blob/main/Resource/chrome_plugin1.jpg "chrome_plugin")
  - 级联文件夹图片压缩工具(C#)：支持设置压缩率及压缩的存储位置，当年为了相机拍照后，能节省电脑空间弄的
-
+ - 英语教育平台(Java, Spring Boot, Mongodb): 给教育机构学生提供在线学习、考试的平台
+ - 庄家项目(Nodejs, Express, Mysql): 用于体育竞猜的项目
+ - WheatEK-Phone 项目(Nodejs, Express, Mysql): 通过在学生书包里嵌入物联网设备，给学校和家长提供与学生时时沟通的物联网项目
+ 
 # 我精通/熟练使用的技能
 - 设计：敏捷软件开发 原则、模式与实践
 - 开发技术：NODE/.NET/PHP/JAVA/VUE/React/Python/C++/VB/Android
