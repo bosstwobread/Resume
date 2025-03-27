@@ -106,7 +106,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 - Provides a unified development platform for enterprise and government software, supporting language-independent customization development on WEB, APP, and hardware.
 - Features include user organization permissions, a self-developed BMPS2.0 workflow engine, a reporting system, business-related middleware, large file storage, continuous deployment, customizable forms with flexible configuration, ensuring critical pages response times within 200ms.
 - The platform has undergone three iterations, evolving from a C/S to a B/S and then from .NET version to Java version.
-- Over dozens projects have been developed based on this platform, e.g. Wuxi's Four-in-One Platform, Taizhou's One Map, Ningbo's Land Consolidation, Juxian County's One Map in Shandong, and Xuzhou's Government OA, among others.
+- Over dozens projects have been developed based on this platform, e.g. Wuxi's Four-in-One Platform, Taizhou's One Map, Ningbo's Land Consolidation, Juxian County's One Map in Shandong, Wanwei company OA, and Xuzhou's Government OA, among others.
 
 ### Platform Highlights
 - UI: Supports multi-project page fusion technology, which is similar to the componentization concept adopted by the react framework, but logically sharing is more convenient, different projects can directly use and consume without publishing components, by the way, I didn't know the react when I implemented this function
@@ -154,6 +154,12 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 - Chrome Bookmark Plugin: Allows users to quickly open their bookmark menu with a keyboard shortcut from any webpage. [Download](https://download.csdn.net/download/bosstwobread/7171427) | [Forum Post](https://bbs.csdn.net/topics/390755412?spm=1001.2014.3001.6377)
 ![chrome_plugin](https://github.com/bosstwobread/Resume/blob/main/Resource/chrome_plugin1.jpg "chrome_plugin")
 - Cascading Folder Image Compression Tool (C#): Enables configurable compression rates and storage locations for bulk image compression. Used to save computer space
+# English education platform(Java, Mongodb)
+- English education institutions provide students with a platform for study, examination.
+# Bookmaker project(Nodejs, Express, Mysql)
+- Platform for sports betting
+# WheatEK-Phone project(Nodejs, Express, Mysql)
+- An IoT project for real-time communication between parents, schools and students
 
 # Skills & Expertise
 
