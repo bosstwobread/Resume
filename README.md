@@ -22,6 +22,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 - skilled in system architecture, components, databases, APIs, product design, front-end and back-end development, and system CI/CD deployment
 - Received individual/team technical innovation awards from the company
 - Achieved excellent science scores in school and won third prize in the zhejiang provincial physics competition
+- With nearly ten years of experience in serving a platform upgrade, have a deep understanding of how to design to meet the evolving market needs
 
 ---
 
@@ -154,12 +155,9 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 - Chrome Bookmark Plugin: Allows users to quickly open their bookmark menu with a keyboard shortcut from any webpage. [Download](https://download.csdn.net/download/bosstwobread/7171427) | [Forum Post](https://bbs.csdn.net/topics/390755412?spm=1001.2014.3001.6377)
 ![chrome_plugin](https://github.com/bosstwobread/Resume/blob/main/Resource/chrome_plugin1.jpg "chrome_plugin")
 - Cascading Folder Image Compression Tool (C#): Enables configurable compression rates and storage locations for bulk image compression. Used to save computer space
-# English education platform(Java, Mongodb)
-- English education institutions provide students with a platform for study, examination.
-# Bookmaker project(Nodejs, Express, Mysql)
-- Platform for sports betting
-# WheatEK-Phone project(Nodejs, Express, Mysql)
-- An IoT project for real-time communication between parents, schools and students
+- English education platform(Java, Mongodb): English education institutions provide students with a platform for study, examination.
+- Bookmaker project(Nodejs, Express, Mysql): Platform for sports betting
+- WheatEK-Phone project(Nodejs, Express, Mysql): By embedding IoT devices in students' schoolbags, schools and parents can communicate with students at any time through IoT projects.
 
 # Skills & Expertise
 
