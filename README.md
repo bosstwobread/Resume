@@ -41,7 +41,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 - Optimized hundreds of SQL based stored procedures, developed common function and simplified numerous SQL statements, removing repetitive code (~1k lines to few hundreds) to improve the maintainability and readability
 - Established technical specifications documents and numerous technical guidance manuals for team development, training new developers
 
-## 2013.04-2021.5 (8 years) Zhejiang Wanwei Space Technology Co., Ltd. (.NET/JAVA/NODE/PHP/Docker)
+## 2013.04-2022.2 (9 years) Zhejiang Wanwei Space Technology Co., Ltd. (.NET/JAVA/NODE/PHP/Docker)
 
 [Homepage](https://www.zjugis.com/home/index.html)
 ### Job Responsibilities
@@ -72,18 +72,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 
 # Main Projects
 
-## State street SQL Server Reporting Services (MSSQL/SSRS/CLI) 2023.5-2025.2
-- Responsibility: Tech leader
-- Help established and maintained the complex reporting system for State Street Registry Business Unit for daily fund operations and data reconciliation
-- Manage the codebase for SQL Server reporting service project including SQLs and Reports which are used to implement complex business requirements and calculation logics, such as recursive algorithms
-![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
-
-## Hengtian.net core architecture (.net core/Dapr/docker) 2022.2-2023.4
-- Responsibility: Scrum master
-- Company-level architecture, providing a fundamental framework for projects of the company
-- Based on Dapr's microservice architecture, it is encapsulated for the company's business scenarios and optimizes the development process
-
-## Backend Logic Configuration Framework (Node.js/Vue) 2021.9 - 2021.12
+## Low-code platforms -- Backend Logic Configuration Framework (Node.js/Vue) 2025.5 - 2025.8
 [git](https://github.com/bosstwobread/YFormIntelligence)
 - Responsibility: Completely independent development
 ### Framework Overview
@@ -100,7 +89,18 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 ![code_insert](https://github.com/bosstwobread/Resume/blob/main/Resource/fyi1.png "code_insert")
 ![code_search](https://github.com/bosstwobread/Resume/blob/main/Resource/fyi2.png "code_search")
 
-# E-Government Platform (C#/.NET/JAVA/NODEJS/ORACLE/Docker) 2014.4-2021.5
+## State street SQL Server Reporting Services (MSSQL/SSRS/CLI) 2023.5-2025.2
+- Responsibility: Tech leader
+- Help established and maintained the complex reporting system for State Street Registry Business Unit for daily fund operations and data reconciliation
+- Manage the codebase for SQL Server reporting service project including SQLs and Reports which are used to implement complex business requirements and calculation logics, such as recursive algorithms
+![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
+
+## Hengtian.net core architecture (.net core/Dapr/docker) 2022.2-2023.4
+- Responsibility: Scrum master
+- Company-level architecture, providing a fundamental framework for projects of the company
+- Based on Dapr's microservice architecture, it is encapsulated for the company's business scenarios and optimizes the development process
+
+# E-Government Platform (C#/.NET/JAVA/NODEJS/ORACLE/Docker) 2014.4-2022.2
 [Demo Link](http://114.215.200.79:81/z_web_container/Home/blueIndex)
 - Responsibility: Served as architect, project manager, product manager and core functional coding work at the same time, 7-8 people team
 ### Project Overview
