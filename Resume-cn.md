@@ -36,7 +36,7 @@ Language: [English](https://github.com/bosstwobread/Resume)
  - 优化大量报表的SQL工作，整理出大量的通用脚本及精简大量SQL语句，如由几千行的代码优化到小几百行，增强可维护性和可读性
  - 制定团队开发的技术规范和大量技术指导手册，使得新成员可快速上手
 
-## 2013.04-2021.5（8年） 浙江浙大万维科技有限公司（.NET/JAVA/NODE/PHP/Docker）
+## 2013.04-2022.2（9年） 浙江浙大万维科技有限公司（.NET/JAVA/NODE/PHP/Docker）
 [主页](https://www.zjugis.com/home/index.html)
 ### 工作内容
  - 负责电子政务平台部门团队管理、制定公司技术规范及平台相关产品的流程图、数据库、架构 设计和编码工作
@@ -64,18 +64,7 @@ Language: [English](https://github.com/bosstwobread/Resume)
 
 # 关键项目经历
 
-## 道富SSRS报表系统(MSSQL/SSRS/CLI) 2023.5-2025.2
- - 职责：技术经理
- - 帮助道富银行注册业务部建立并维护复杂的报告系统，用于日常基金运作和数据核对
- - 运用了大量存储过程特性来实现复杂业务要求，如递归算法等
-![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
-
-## 恒天.net core架构(.net core/Dapr/docker) 2022.2-2022.8
- - 职责：项目协调和进度负责
- - 公司级别架构，为公司项目提供基础框架
- - 基于Dapr的微服务架构，针对公司业务场景做了封装，优化了开发流程
-
-## 后台逻辑配置框架(Node.js/Vue) 2021.9 - 2021.12
+## 低代码平台--后台逻辑配置框架(Node.js/Vue) 2025.5 - 2025.8
 [git地址](https://github.com/bosstwobread/YFormIntelligence)
  - 职责：完全自主研发
 ### 框架概述
@@ -92,7 +81,18 @@ Language: [English](https://github.com/bosstwobread/Resume)
 ![code_insert](https://github.com/bosstwobread/Resume/blob/main/Resource/fyi1.png "code_insert")
 ![code_search](https://github.com/bosstwobread/Resume/blob/main/Resource/fyi2.png "code_search")
 
-## 万维电子政务平台(C#/.NET/JAVA/NODEJS/ORACLE/Docker) 2014.4-2021.5 
+## 道富SSRS报表系统(MSSQL/SSRS/CLI) 2023.5-2025.2
+ - 职责：技术经理
+ - 帮助道富银行注册业务部建立并维护复杂的报告系统，用于日常基金运作和数据核对
+ - 运用了大量存储过程特性来实现复杂业务要求，如递归算法等
+![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
+
+## 恒天.net core架构(.net core/Dapr/docker) 2022.2-2022.8
+ - 职责：项目协调和进度负责
+ - 公司级别架构，为公司项目提供基础框架
+ - 基于Dapr的微服务架构，针对公司业务场景做了封装，优化了开发流程
+
+## 万维电子政务平台(C#/.NET/JAVA/NODEJS/ORACLE/Docker) 2014.4-2022.2
 [演示地址](http://114.215.200.79:81/z_web_container/Home/blueIndex)
  - 职责：同时担任架构师，项目经理，产品经理，核心功能开发等角色，7-8人团队
 ### 项目概述
