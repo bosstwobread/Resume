@@ -15,14 +15,14 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 
 # Personal Highlights
 
-- Proficient in abstract thinking and Agile software development, design principles and patterns, adapt to various future business scenario and provide flexibility to handle potential changes
+- Proficient in abstract thinking and Agile software development, design principles and patterns, adapt to diverse future business scenarios and provide flexible solutions to handle potential changes
 - Possess capabilities in product requirements, design, architecture, development, and delivery
 - 15 years of development, 10 years of architecture, and 8 years of technical team management experience
-- Proficient/Familiar with most mainstream programming languages, 
+- Proficient in and familiar with most mainstream programming languages, such as C#,Javascript,PHP,Java...
 - skilled in system architecture, components, databases, APIs, product design, front-end and back-end development, and system CI/CD deployment
 - Received individual/team technical innovation awards from the company
 - Achieved excellent science scores in school and won third prize in the zhejiang provincial physics competition
-- With nearly ten years of experience in serving a platform upgrade, have a deep understanding of how to design to meet the evolving market needs
+- With nearly ten years of platform upgrade experience, I have a deep understanding of designing solutions to meet evolving market needs
 
 ---
 
@@ -32,13 +32,13 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 
 [Homepage](https://en.hengtiansoft.com/homepage)
 ### Job Responsibilities
-- Tech lead responsible to assign tasks to Junior developer and perform code review and solve technical difficulties encountered
-- Attend Daily stand up to debrief daily work and communicate with foreign clients effectively in a professional manner
-- Nominated to serve as solution architect of  company internal .NET Core based solution to a general business scenario.
+- Tech Lead responsible for assigning tasks to junior developers, performing code reviews, and resolving technical challenges
+- Attended daily stand-ups, reported progress, and communicated effectively with international clients in a professional manner
+- Nominated to serve as solution architect of  company internal .NET Core based solution to a general business scenario
 
 ### Achievements
 - Utilize automated Windows command scripts to achieve automatic deployment, as efficiency is improved by reducing the time consumed from one day to minutes
-- Optimized hundreds of SQL based stored procedures, developed common function and simplified numerous SQL statements, removing repetitive code (~1k lines to few hundreds) to improve the maintainability and readability
+- Optimized hundreds of SQL stored procedures, developed reusable functions, and simplified numerous SQL statements, removing repetitive code (~1k lines to few hundreds) to improve the maintainability and readability
 - Established technical specifications documents and numerous technical guidance manuals for team development, training new developers
 
 ## 2013.04-2022.2 (9 years) Zhejiang Wanwei Space Technology Co., Ltd. (.NET/JAVA/NODE/PHP/Docker)
@@ -46,7 +46,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 [Homepage](https://www.zjugis.com/home/index.html)
 ### Job Responsibilities
 - Managed the E-Government platform department team, established company technical standards and responsible for flowcharts, database, architecture design and coding
-- Platform-based project management, there are about dozens of projects based on this platform, responsible for some of the more technically difficult projects
+- Managed a platform-based project portfolio with dozens of projects, taking responsibility for the technically complex ones
 
 ## 2009.04-2013.04 (4 years) Eastern Communications Co., Ltd. (Javascript/.Net)
 
@@ -77,7 +77,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 - Responsibility: Completely independent development
 ### Framework Overview
 - Provides a powerful and flexible way to build complex business applications, focusing on business logic through configuration rather than coding
-- By studying the functions that can be realized by programming languages, the logic abstraction is split into technical instructions with the smallest granularity, and a low-code platform is built from the bottom up
+- Analyzed programming language capabilities, abstracted business logic into granular technical instructions, and built a low-code platform from the ground up
 - Use json configuration to implement full business logic, such as user authentication, CRUD and export, etc.
 ### Framework Highlights
 - Configuration-driven development, most business functions are implemented through configuration, and those that cannot be implemented are solved by introducing business plug-ins
@@ -91,7 +91,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 
 ## State street SQL Server Reporting Services (MSSQL/SSRS/CLI) 2023.5-2025.2
 - Responsibility: Tech leader
-- Help established and maintained the complex reporting system for State Street Registry Business Unit for daily fund operations and data reconciliation
+- Helped establish and maintain a complex reporting system for State Street Registry Business Unit for daily fund operations and data reconciliation
 - Manage the codebase for SQL Server reporting service project including SQLs and Reports which are used to implement complex business requirements and calculation logics, such as recursive algorithms
 ![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
 
@@ -107,7 +107,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 - Provides a unified development platform for enterprise and government software, supporting language-independent customization development on WEB, APP, and hardware.
 - Features include user organization permissions, a self-developed BMPS2.0 workflow engine, a reporting system, business-related middleware, large file storage, continuous deployment, customizable forms with flexible configuration, ensuring critical pages response times within 200ms.
 - The platform has undergone three iterations, evolving from a C/S to a B/S and then from .NET version to Java version.
-- Over dozens projects have been developed based on this platform, e.g. Wuxi's Four-in-One Platform, Taizhou's One Map, Ningbo's Land Consolidation, Juxian County's One Map in Shandong, Wanwei company OA, and Xuzhou's Government OA, among others.
+- Dozens of projects have been developed based on this platform, e.g. Wuxi's Four-in-One Platform, Taizhou's One Map, Ningbo's Land Consolidation, Juxian County's One Map in Shandong, Wanwei company OA, and Xuzhou's Government OA, among others.
 
 ### Platform Highlights
 - UI: Supports multi-project page fusion technology, which is similar to the componentization concept adopted by the react framework, but logically sharing is more convenient, different projects can directly use and consume without publishing components, by the way, I didn't know the react when I implemented this function
@@ -172,4 +172,4 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 
 # Acknowledgment
 
-Thank you for taking the time to read my resume. I look forward to get opportunity to work with you!
+Thank you for taking the time to read my resume. I look forward to the opportunity to work with you!
