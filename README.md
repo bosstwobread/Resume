@@ -8,7 +8,6 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 - Desired Position: Software Engineer / Project Manager
 - Desired Cities: Remote
 
-- Lindedin: [Homepage](https://www.linkedin.com/in/nelson-lin-05671834b/)
 - Ability to do night shift and willing to work remotely
 
 ---
@@ -97,14 +96,11 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 ### Future Outlook
 - Provide visual configuration
 - Extend the accessible business plug-ins to non-Node languages, i.e. service mode, to support cross-language
-![code_insert](https://github.com/bosstwobread/Resume/blob/main/Resource/fyi1.png "code_insert")
-![code_search](https://github.com/bosstwobread/Resume/blob/main/Resource/fyi2.png "code_search")
 
 ## State street SQL Server Reporting Services (MSSQL/SSRS/CLI) 2023.5-2025.2
 - Responsibility: Tech leader
 - Helped establish and maintain a complex reporting system for State Street Registry Business Unit for daily fund operations and data reconciliation
 - Manage the codebase for SQL Server reporting service project including SQLs and Reports which are used to implement complex business requirements and calculation logics, such as recursive algorithms
-![reports](https://github.com/bosstwobread/Resume/blob/main/Resource/State%20street1.jpg "reports")
 
 ## Hengtian.net core architecture (.net core/Dapr/docker) 2022.2-2023.4
 - Responsibility: Scrum master
@@ -136,9 +132,6 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 - Third-Party Application Integration: Supports integrations with DingTalk, WeCom, SMS, Email, or customized third-party services.
 - System Monitoring: Records all operations and API calls, generating user-friendly data and visual charts.
 - Low-code platform: The design is basically completed, but it is stopped due to company strategy.
-![workflow](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm1.png "workflow")
-![architecture diagram](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm2.png "architecture diagram")
-![workflow diagram](https://github.com/bosstwobread/Resume/blob/main/Resource/egvm3.png "workflow diagram")
 
 ## Panoramic Image Display (PHP/Javascript) 2016.4-2016.5
 - Responsibility: Developer
@@ -164,7 +157,6 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 # Additional Amateur Projects
 - WeChat Sudoku Mini application (Search '艺妍数独' on WeChat Mini application): A side project promised to my daughter during winter break; I personally think its design is superior to most similar games on the market.
 - Chrome Bookmark Plugin: Allows users to quickly open their bookmark menu with a keyboard shortcut from any webpage. [Download](https://download.csdn.net/download/bosstwobread/7171427) | [Forum Post](https://bbs.csdn.net/topics/390755412?spm=1001.2014.3001.6377)
-![chrome_plugin](https://github.com/bosstwobread/Resume/blob/main/Resource/chrome_plugin1.jpg "chrome_plugin")
 - Cascading Folder Image Compression Tool (C#): Enables configurable compression rates and storage locations for bulk image compression. Used to save computer space
 - English education platform(Java, Mongodb): English education institutions provide students with a platform for study, examination.
 - Bookmaker project(Nodejs, Express, Mysql): Platform for sports betting
