@@ -38,7 +38,7 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 
 # Work Experience
 
-## 2022.04-2025.2 (3 years) Zhejiang Hengtian Software Co., Ltd. (.NET/C#/VB/MSSQL/PostgreSQL/Windows command/AWS)
+## 2022.04-2025.2 (3 years) Zhejiang Hengtian Software Co., Ltd. (NODE/.NET/C#/VB/MSSQL/PostgreSQL/Windows command/AWS)
 
 [Homepage](https://en.hengtiansoft.com/homepage)
 ### Job Responsibilities
