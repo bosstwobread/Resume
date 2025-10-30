@@ -1,4 +1,3 @@
-Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.md)
 # Personal Information
 
 - Nelson Lin / Male / 1986
