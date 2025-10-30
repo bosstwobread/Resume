@@ -13,6 +13,17 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 
 ---
 
+# Skills & Expertise
+
+- Design: Agile software development, design principles and patterns
+- Programming Languages: Node.js, .NET, PHP, Java, VUE, React, Python, C++, VB, Android
+- Databases: Oracle, MySQL, PostgreSQL, MongoDB, MSSQL, SQLite
+- Deployment: Linux, Docker
+- Third-Party Integrations: Alibaba IoT, WeChat Pay, AWS, Qiniu Cloud, JPush, China Mobile, DingTalk, Gaode Maps
+- Awards: Individual & Team Innovation Award, Provincial Physics Competition Third Prize
+
+---
+
 # Personal Highlights
 
 - Proficient in abstract thinking and Agile software development, design principles and patterns, adapt to diverse future business scenarios and provide flexible solutions to handle potential changes
@@ -158,15 +169,6 @@ Language: [Chinese](https://github.com/bosstwobread/Resume/blob/main/Resume-cn.m
 - English education platform(Java, Mongodb): English education institutions provide students with a platform for study, examination.
 - Bookmaker project(Nodejs, Express, Mysql): Platform for sports betting
 - WheatEK-Phone project(Nodejs, Express, Mysql): By embedding IoT devices in students' schoolbags, schools and parents can communicate with students at any time through IoT projects.
-
-# Skills & Expertise
-
-- Design: Agile software development, design principles and patterns
-- Programming Languages: Node.js, .NET, PHP, Java, VUE, React, Python, C++, VB, Android
-- Databases: Oracle, MySQL, PostgreSQL, MongoDB, MSSQL, SQLite
-- Deployment: Linux, Docker
-- Third-Party Integrations: Alibaba IoT, WeChat Pay, AWS, Qiniu Cloud, JPush, China Mobile, DingTalk, Gaode Maps
-- Awards: Individual & Team Innovation Award, Provincial Physics Competition Third Prize
 
 ---
 
