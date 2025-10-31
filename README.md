@@ -2,6 +2,8 @@
 
 Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning complex ideas into working software. Over the past 15 years, I’ve built everything from web platforms to architecture frameworks, leading teams and mentoring developers along the way. I’m always curious about new technologies and enjoy working with people who share the same passion for creating great products.
 
+---
+
 # Personal Information
 
 - Nelson Lin / Male / 1986
