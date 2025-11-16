@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/bosstwobread/Resume/refs/heads/main/Resource/IMG_7729.JPG" alt="Profile Photo" width="120" align="right" style="border-radius: 50%; margin-left: 15px;">
 
-Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning complex ideas into working software. Over the past 15 years, I’ve built everything from web platforms to architecture frameworks, leading teams and mentoring developers along the way. I’m always curious about new technologies and enjoy working with people who share the same passion for creating great products.
+Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning complex ideas into working software. Over the past 15 years, I’ve built everything from web platforms to architecture frameworks, leading teams and mentoring developers along the way. I’m always curious about new technologies and enjoy working with people who share the same passion for creating great products. I hope my experience and abilities can contribute to the company’s rapid growth.
 
 ---
 
@@ -22,8 +22,8 @@ Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning 
 # Skills & Expertise
 
 - Design: Agile software development, design principles and patterns
-- Programming Languages: Node.js, .NET, PHP, Java, VUE, React, Python, C++, VB, Android
-- Databases: Oracle, MySQL, PostgreSQL, MongoDB, MSSQL, SQLite
+- Programming Languages: Node.js(Nestjs), .NET, PHP, Java, VUE, React, Python, C++, VB, Android
+- Databases: Oracle, MySQL, PostgreSQL, MongoDB, MSSQL, SQLite, GraphQL
 - Deployment: Linux, Docker
 - Third-Party Integrations: Alibaba IoT, WeChat Pay, AWS, Qiniu Cloud, JPush, China Mobile, DingTalk, Gaode Maps
 - Awards: Individual & Team Innovation Award, Provincial Physics Competition Third Prize
@@ -89,7 +89,7 @@ Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning 
 
 # Main Projects
 
-## Low-code platforms -- Backend Logic Configuration Framework (Node.js/Vue) 2025.5 - 2025.8
+## Low-code platforms for Children's Smart Backpack -- Backend Logic Configuration Framework (Node.js/Nest.js/Vue) 2025.5 - Now
 [git](https://github.com/bosstwobread/YFormIntelligence)
 - Responsibility: Completely independent development
 ### Framework Overview
