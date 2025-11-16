@@ -24,7 +24,7 @@ Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning 
 - Design: Agile software development, design principles and patterns
 - Programming Languages: Node.js(Nestjs), .NET, PHP, Java, VUE, React, Python, C++, VB, Android
 - Databases: Oracle, MySQL, PostgreSQL, MongoDB, MSSQL, SQLite, GraphQL
-- Deployment: Linux, Docker
+- Deployment: Linux, Docker, RabbitMQ, Kafka
 - Third-Party Integrations: Alibaba IoT, WeChat Pay, AWS, Qiniu Cloud, JPush, China Mobile, DingTalk, Gaode Maps
 - Awards: Individual & Team Innovation Award, Provincial Physics Competition Third Prize
 
