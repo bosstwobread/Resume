@@ -22,7 +22,7 @@ Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning 
 # Skills & Expertise
 
 - Design: Agile software development, design principles and patterns
-- Programming Languages: Node.js(Nestjs), .NET, PHP, Java, VUE, React, Python, C++, VB, Android
+- Programming Languages: Node.js(Nestjs), .NET, PHP, Java, VUE, React, Vue, Python, C++, VB, Android
 - Databases: Oracle, MySQL, PostgreSQL, MongoDB, MSSQL, SQLite, GraphQL
 - Deployment: Linux, Docker, RabbitMQ, Kafka, CI/CD
 - Third-Party Integrations: Alibaba IoT, WeChat Pay, AWS, Qiniu Cloud, JPush, China Mobile, DingTalk, Gaode Maps
@@ -89,7 +89,7 @@ Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning 
 
 # Main Projects
 
-## Low-code platforms for Children's Smart Backpack -- Backend Logic Configuration Framework (Node.js/Nest.js/Vue) 2025.5 - Now
+## Low-code platforms for Children's Smart Backpack -- Backend Logic Configuration Framework (Node.js/Nest.js/React/Vue) 2025.5 - Now
 [git](https://github.com/bosstwobread/YFormIntelligence)
 - Responsibility: Completely independent development
 ### Framework Overview
