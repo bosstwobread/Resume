@@ -95,7 +95,11 @@ Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning 
 
 # Main Projects
 
-## Low-code platforms for Children's Smart Backpack -- Backend Logic Configuration Framework (Node.js/Nest.js/React/Vue) 2025.5 - Now
+## State street SQL Server Reporting Services (MSSQL/SSRS/CLI) 2023.11-Now
+- Responsibility: Developer
+- Developed a vocabulary-learning application using NestJS, React Native, GraphQL, and PostgreSQL
+
+## Low-code platforms for Children's Smart Backpack -- Backend Logic Configuration Framework (Node.js/Nest.js/React/Vue) 2025.5 - 2025.10
 [git](https://github.com/bosstwobread/YFormIntelligence)
 - Responsibility: Completely independent development
 ### Framework Overview
