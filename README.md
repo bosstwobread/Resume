@@ -22,7 +22,7 @@ Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning 
 # Skills & Expertise
 
 - Design: Agile software development, design principles and patterns
-- Programming Languages: Vanilla Javascript+Node(Nest), .NET, PHP, Java, VUE, React, Vue, Python, C++, VB, Android, GraphQL
+- Programming Languages: Vanilla Javascript+Node(Nest), .NET, PHP, Java, React, Vue, Python, C++, VB, IOS, Android, GraphQL
 - Databases: Oracle, MySQL, PostgreSQL, MongoDB, MSSQL, SQLite, GraphQL
 - Deployment: Linux, Docker, RabbitMQ, Kafka, CI/CD
 - Third-Party Integrations: Alibaba IoT, WeChat Pay, AWS, Qiniu Cloud, JPush, China Mobile, DingTalk, Gaode Maps
