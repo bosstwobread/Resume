@@ -22,7 +22,7 @@ Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning 
 # Skills & Expertise
 
 - Design: Agile software development, design principles and patterns
-- Programming Languages: Node.js(Nestjs), .NET, PHP, Java, VUE, React, Vue, Python, C++, VB, Android
+- Programming Languages: Vanilla Javascript+Node(Nest), .NET, PHP, Java, VUE, React, Vue, Python, C++, VB, Android, GraphQL
 - Databases: Oracle, MySQL, PostgreSQL, MongoDB, MSSQL, SQLite, GraphQL
 - Deployment: Linux, Docker, RabbitMQ, Kafka, CI/CD
 - Third-Party Integrations: Alibaba IoT, WeChat Pay, AWS, Qiniu Cloud, JPush, China Mobile, DingTalk, Gaode Maps
@@ -35,7 +35,7 @@ Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning 
 - Proficient in abstract thinking and Agile software development, design principles and patterns, adapt to diverse future business scenarios and provide flexible solutions to handle potential changes
 - Possess capabilities in product requirements, design, architecture, development, and delivery
 - 15 years of development, 10 years of architecture, and 8 years of technical team management experience
-- Proficient in and familiar with most mainstream programming languages, such as Node,React,C#,Javascript,PHP,Java,GraphQL,...
+- Proficient in and familiar with most mainstream programming languages
 - skilled in system architecture, components, databases, APIs, product design, front-end and back-end development, and system CI/CD deployment
 - Received individual/team technical innovation awards from the company
 - Achieved excellent science scores in school and won third prize in the zhejiang provincial physics competition
@@ -45,7 +45,7 @@ Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning 
 
 # Work Experience
 
-## 2025.04-Now Software freelancer (NODE/React Native/GraphQL/AI Agent/MSSQL/PostgreSQL/Docker...)
+## 2025.04-Now Software freelancer (Nestjs/React Native/GraphQL/AI Agent/MSSQL/PostgreSQL/Docker...)
 
 ### Job Responsibilities
 - Responsible for developing a smart backpack for children
