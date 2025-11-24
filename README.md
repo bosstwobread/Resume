@@ -95,7 +95,7 @@ Hi, I’m Nelson — a full-stack engineer and technical lead who loves turning 
 
 # Main Projects
 
-## State street SQL Server Reporting Services (MSSQL/SSRS/CLI) 2023.11-Now
+## vocabulary-learning application 2023.11-Now
 - Responsibility: Developer
 - Developed a vocabulary-learning application using NestJS, React Native, GraphQL, and PostgreSQL
 
