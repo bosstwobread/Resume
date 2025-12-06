@@ -38,6 +38,8 @@ A full-stack engineer and technical lead who loves turning complex ideas into wo
 - Managed E-Government platform team, overseeing dozens of projects
 - Acted as architect, PM, and core developer for multi-language, multi-database platforms
 - Developed low-code platform supporting workflow engine, reporting, big file storage, and cross-platform deployment
+- Developed a PHP/JS solution to synthesize drone images into interactive panoramas
+- Migrate over 100 million records to multiple databases
 
 ## 2009.04-2013.04 Eastern Communications
 **Developer**
