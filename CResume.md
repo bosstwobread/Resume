@@ -1,3 +1,10 @@
+# Nelson Lin – Full-Stack Engineer & Technical Lead
+**Email:** linxishengjiong@gmail.com  
+**LinkedIn:** [https://www.linkedin.com/in/nelson-lin-05671834b/](https://www.linkedin.com/in/nelson-lin-05671834b/)  
+**GitHub:** [github.com/nelsonlin](https://github.com/nelsonlin)
+
+---
+
 # Summary
 
 A full-stack engineer and technical lead who loves turning complex ideas into working software. Over the past 15 years, I’ve built a wide range of products, from web platforms to architecture frameworks, leading teams and mentoring developers along the way. I’m always curious about new technologies and enjoy working with people who share the same passion for creating great products. I hope my experience and abilities can contribute to the company’s rapid growth.
