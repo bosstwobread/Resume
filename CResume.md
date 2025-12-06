@@ -36,7 +36,6 @@ A full-stack engineer and technical lead who loves turning complex ideas into wo
 ## 2013.04-2022.02 Zhejiang Wanwei Space Technology
 **Department Manager / Platform Architect**
 - Managed E-Government platform team, overseeing dozens of projects
-- Acted as architect, PM, and core developer for multi-language, multi-database platforms
 - Developed low-code platform supporting workflow engine, reporting, big file storage, and cross-platform deployment
 - Developed a PHP/JS solution to synthesize drone images into interactive panoramas
 - Migrate over 100 million records to multiple databases
