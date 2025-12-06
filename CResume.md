@@ -1,7 +1,7 @@
 # Nelson Lin – Full-Stack Engineer & Technical Lead
 **Email:** linxishengjiong@gmail.com  
-**LinkedIn:** [https://www.linkedin.com/in/nelson-lin-05671834b/](https://www.linkedin.com/in/nelson-lin-05671834b/)  
-**GitHub:** [github.com/nelsonlin](https://github.com/nelsonlin)
+**LinkedIn:** [linkedin](https://www.linkedin.com/in/nelson-lin-05671834b/)  
+**GitHub:** [github](https://github.com/bosstwobread/Resume)
 
 ---
 
